@@ -37,7 +37,7 @@ Again nothin to install, just pick your script, mode it, test, kang it & you are
 
 ## Meta
 
-Jesvi Jonathan – [@YourTwitter](https://twitter.com/dbader_org) – jesvi22j@gmail.com
+Jesvi Jonathan – jesvi22j@gmail.com
 
 Distributed under the GNU license. See ``LICENSE`` for more information.
 
